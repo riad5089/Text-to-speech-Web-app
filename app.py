@@ -1,4 +1,3 @@
-# "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"
 
 import streamlit as st
 from openai import OpenAI
